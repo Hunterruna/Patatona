@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
         Firebase.setAndroidContext(this);
-//hijoetureputisimamadre ahi muere vato
+//hijoetureputisimamadre ahi muere vato :3
 
         Nref= new Firebase("https://trabajo-roy.firebaseio.com/");
 
